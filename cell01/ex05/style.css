@@ -1,0 +1,28 @@
+#Box {
+   width: 100%;
+   margin: 0 auto;
+   height: 250px;
+ }
+ .Box1,
+ .Box2,
+ .Box3 {
+   float: left;
+   width: 50%;
+ }
+ .box {
+   height: 250px;
+ 
+   border: 1px solid #bdbdbd;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   -moz-box-shadow: 0 0 10px #bdbdbd;
+   -webkit-box-shadow: 0 0 10px #bdbdbd;
+   box-shadow: 0 0 10px #bdbdbd;
+   border:1px solid green;
+   line-height: 200px;
+ }
+ .Box1 {
+   background-color: rgb(192, 177, 44);
+ }
+ .Box2 {
+   background-color: rgb(14, 193, 14);
