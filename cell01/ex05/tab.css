@@ -4,8 +4,8 @@
    height: 250px;
  }
  .Box1,
- .Box2,
- .Box3 {
+ .Box2
+ {
    float: left;
    width: 50%;
  }
