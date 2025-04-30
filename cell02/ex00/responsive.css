@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+table, tr, th {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table {
+    width: 100%;
+}
+tr{
+    height: calc(100vh - 20px);
+}
+th{
+    width: 50%;
+}
+th.left{
+    background-color: rgb(0, 252, 0);
+}
+th.right{
+    background-color: rgb(255, 136, 0);
+}
